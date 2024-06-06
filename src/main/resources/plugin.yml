@@ -1,0 +1,4 @@
+name: gogo
+version: '${project.version}'
+main: org.shc0218.minecraft.Gogo
+api-version: '1.20'
